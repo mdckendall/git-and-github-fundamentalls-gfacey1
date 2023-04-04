@@ -1,0 +1,5 @@
+"""What I learned"""
+* What a repository is 
+* how to do a pull request
+* what is Github and how it can help me better myself as well as work on other project with collaborators or just by myself.
+* How to do markdowns and such
